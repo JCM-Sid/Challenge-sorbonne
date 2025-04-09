@@ -5,7 +5,7 @@ This directory provides the model defined to address Sorbonne Data Challenge 202
 The main model is based on GAT design (Graph Attention Transformer) . See reference [here](https://petar-v.com/GAT/)
 
 &gt;&gt; the directory structure and content:
-- ./modele* : provides the 3 notebooks: (training, Validation, and test prediction)
-- ./Pred_test_v12_500_2803/* : contains the inputs input & output data files
-- Others documents, providing how the projects was managed, with risks, findings, results, explicability
+- ./model/* : provides the 3 notebooks: (training, Validation, and test prediction)
+- ./data_inputs_outputs/* : contains the inputs input & output data files
+- ./Docs&Analyses/* : providing how the projects was managed, with risks, findings, results, explicability
 
