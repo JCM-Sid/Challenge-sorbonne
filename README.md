@@ -1,0 +1,7 @@
+This directory provides the model defined to address Sorbonne Data Challenge 2025 , related to cyber threat detection
+See Challenge briefing here : https://github.com/JCM-Sid/Challenge-sorbonne/blob/main/Briefing_Data_Challenge.pdf
+
+./modele* : provides the 3 model notebooks: (training, Validation, and test prediction)
+./Pred_test_v12_500_2803/* : contains the inputs input & output data files
+Others documents, providing how the projects was managed, with risks, findings, results, explicability
+
